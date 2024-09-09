@@ -15,7 +15,7 @@ links:
   bcchr: him
 ---
 
-Visit Hee Yeon Im's lab webpage, to delve deeper into her research and work in the Opthalmology Lab at BC Children's Hospital Research Institute. 
+Visit Hee Yeon Im's lab webpage, to delve deeper into her research and work in the Interactive Mind & Movement Lab at UBC. 
 
 {%
   include button.html
