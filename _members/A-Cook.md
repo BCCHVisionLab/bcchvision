@@ -8,8 +8,6 @@ links:
   email: acook@psych.ubc.ca
 ---
 
-***Co-supervision with Deborah Giaschi***
-
 I am a PhD student in the Psychology Department. I research how people use vision to guide attention and action. I am working on projects regarding attention and sensorimotor deficits in people with amblyopia. Outside the lab, I enjoy travelling and nature photography. 
 
 {% include section.html %}
@@ -19,7 +17,7 @@ BS in Biology from The Evergreen State College, 2013
 MA in Psychology from San Francisco State University, 2019
 <br>
  
-### Confrence Presentations
+### Conference Presentations
 Cook, A.J., Aziz, M., Zafar, A., Giaschi, D., Im, H.Y. (2023, May 20). Developmental characteristics of visuomotor adaptation strategies in childhood. Poster presented at the Vision Sciences Society Annual Meeting
 
 Im, H.Y., Cook, A.J., Asare, A., Kheradmandsaadi, Z. (2023, March 8). Perception, Attention, and Action in the Human Brain. Talk presented at the University of British Columbia, Djavad Mowafaghian Centre for Brain Health Neuropizza Seminar 
