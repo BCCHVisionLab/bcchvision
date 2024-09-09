@@ -9,15 +9,13 @@ links:
   google-scholar: UxYZtJMAAAAJ&hl
 ---
 
-***Co-supervision with Deborah Giaschi***
-
 I am PhD Candidate in the Neuroscience Graduate Program. My research interests are in human motion and depth perception. I use a variety of psychophysical and neuroimaging techniques including functional MRI to understand how developmental visual disorders like amblyopia affect these visual functions. 
 
 {% include section.html %}
 ### Education
 OD,  Kwame Nkrumah University of Science and Techniology, 2019
  
-### Confrence Presentations
+### Conference Presentations
 Im, H.Y., Kheradmandsaadi, Z., Asare, A., & Giaschi, D. (2023) Mapping whole-brain functional connectomes in amblyopia and dyslexia using resting-state fMRI. 29th Annual Meeting of the Organization for Human Brain Mapping, Montréal, Canada.
 
 Asare, A.K., Ho, C., Im, H.Y., & Giaschi, D. (2023) Evaluation of motion perception and binocular vision following dichoptic treatment for amblyopia. 23rd Annual Meeting of the Vision Sciences Society, Tampa, Florida.
