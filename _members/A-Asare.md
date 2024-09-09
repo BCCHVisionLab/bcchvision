@@ -13,7 +13,7 @@ I am PhD Candidate in the Neuroscience Graduate Program. My research interests a
 
 {% include section.html %}
 ### Education
-OD,  Kwame Nkrumah University of Science and Techniology, 2019
+OD,  Kwame Nkrumah University of Science and Technology, 2019
  
 ### Conference Presentations
 Im, H.Y., Kheradmandsaadi, Z., Asare, A., & Giaschi, D. (2023) Mapping whole-brain functional connectomes in amblyopia and dyslexia using resting-state fMRI. 29th Annual Meeting of the Organization for Human Brain Mapping, Montréal, Canada.
