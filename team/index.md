@@ -1,35 +1,33 @@
 ---
-title: Team
+title: People
 nav:
   order: 3
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}People
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<!-- # Current Lab Members -->
+## Directors
+{% include list.html data="members" component="portrait" filters="role: Lead" background="white" %}
+{% include list.html data="members" component="portrait" filters="role: Co-PI" background="white" %}
 
+## Postdoctoral Researchers
+{% include list.html data="members" component="portrait" filters="role: PD" background="white" %}
+
+## Graduate Students
+{% include list.html data="members" component="portrait" filters="role: GA" background="white" %}
+
+## Research Assistants
+{% include list.html data="members" component="portrait" filters="role: RA, group: Research Technician" background="white" %}
+{% include list.html data="members" component="portrait" filters="role: RA, group: Co-op Student" background="white" %}
+{% include list.html data="members" component="portrait" filters="role: RA, group: Work-Learn Student" background="white" %}
+{% include list.html data="members" component="portrait" filters="role: RA, group: Research Assistant" background="white" %}
+
+<!-- Section for Collaborators -->
+## Collaborators
+
+<!-- Section for Alumni -->
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+## Previous Members
+{% include list.html data="members" component="portrait" filters="role: Al" background="gray"%}
