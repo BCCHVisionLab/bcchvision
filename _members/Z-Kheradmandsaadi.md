@@ -8,9 +8,7 @@ links:
   email: zahra67@mail.ubc.ca
 ---
 
-***Co-supervision with Deborah Giaschi***
-
-I am PhD student in Cognitive Sciences at the Psychology Department, University of British Columbia. My research is on Dyslexia which is a reading disorder. I study functional connectivity of the brain and cognitive abilities in children with dyslexia.
+I am PhD student in Cognitive Sciences at the Psychology Department, University of British Columbia. My research is on dyslexia which is a reading disorder. I study functional connectivity of the brain and cognitive abilities in children with dyslexia.
 
 {% include section.html %}
 ### Education
@@ -20,7 +18,7 @@ MA in Applied Linguistics from Shiraz University, 2014
 
 PhD in Applied Linguistics from Shiraz University, 2019 
  
-### Confrence Presentations
+### Conference Presentations
 Im, H.Y., Kheradmandsaadi, Z., Asare, A., & Giaschi, D. (2023). Mapping whole-brain functional connectomes in amblyopia and dyslexia using resting-state fMRI, Organization for Human Brain Mapping, Montreal, Canada 
 
 Kheradmandsaadi, Z., Im, H.Y., Partanen, M., Siegel, L.S., & Giaschi, D. (2023). Effects of reading intervention on whole-brain resting-state functional connectivity in dyslexia. Organization for Human Brain Mapping, Montreal, Canada 
