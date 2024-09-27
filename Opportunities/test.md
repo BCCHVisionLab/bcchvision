@@ -35,6 +35,7 @@ to see how you can impact our lab!
 {% include section.html %}
 <h2 style="text-align: left;"> <strong> Research Participants (Children) </strong> </h2>
 
+Surrey Memorial Hospital MEG/MRI study for children Aged 6-11 
 
 {% capture col1 %}
 
@@ -44,11 +45,15 @@ to see how you can impact our lab!
 
 {% capture col2 %}
 
+MEG/MRI study for children Aged 6-11 
+
 {% include figure.html image="images/VML_918H.png" caption="Children MEG/MRI research study" %}
 
 {% endcapture %}
 
 {% capture col3 %}
+
+MEG/MRI study for children Aged 6-11
 
 {% include figure.html image="images/VML_918A.png" caption="Children MEG/MRI research study" %}
 
