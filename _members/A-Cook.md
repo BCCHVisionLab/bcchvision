@@ -1,6 +1,6 @@
 ---
 name: Alex Cook
-image: images/Alex-people.jpg
+image: images/people-Alex.jpg
 role: GA 
 description: PhD student acook@psych.ubc.ca
 group: Graduate Students
