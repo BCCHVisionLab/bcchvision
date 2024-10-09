@@ -1,6 +1,6 @@
 ---
 name: T. Rowan Candy, PhD, MCOptom
 image: images/people-Rowan.jpg
-role: Al
+role: Collab
 description: Associate Professor of optometry and Vision Science, Indiana University
 ---
