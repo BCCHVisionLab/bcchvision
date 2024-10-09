@@ -1,6 +1,6 @@
 ---
 name: Ari Chakraborty
-image: images/ari-people.jpeg
+image: images/people-ari.jpeg
 role: Al
 description: Post Doctorate from 2018
 links:
