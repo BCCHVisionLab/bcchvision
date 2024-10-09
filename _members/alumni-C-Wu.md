@@ -1,6 +1,6 @@
 ---
 name: Chengyaun Wu
-image: images/cheng-people.jpeg
+image: images/people-cheng.jpeg
 role: Al
 description: Post Doctorate from 1999-2000
 ---
