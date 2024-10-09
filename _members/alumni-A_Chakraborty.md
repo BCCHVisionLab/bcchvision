@@ -2,7 +2,7 @@
 name: Ari Chakraborty
 image: images/ari-people.jpeg
 role: Al
-description: Post Doctorate ari@midwestern.edu
+description: Post Doctorate from 2018
 links:
   email: ari@midwestern.edu
 ---
