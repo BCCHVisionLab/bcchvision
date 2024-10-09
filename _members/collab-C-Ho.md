@@ -1,6 +1,6 @@
 ---
 name: Cindy Ho 
 image: images/people-cindy.jpg
-role: Al
+role: Collab
 description: Optometrist
 ---
