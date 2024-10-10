@@ -33,7 +33,7 @@ nav:
 
 {% capture col1 %}
 
-{% include figure.html image="images/akosua-conference2-img1.jpg" caption="Akosua at the Association for Research in Vision and Ophthalmology (ARVO, 2022)" %}
+{% include figure.html image="images/conference-Akosua_Arvo.jpg" caption="Akosua at the Association for Research in Vision and Ophthalmology (ARVO, 2022)" %}
 
 {% endcapture %}
 
@@ -79,14 +79,14 @@ nav:
 
 {% capture col3 %}
 
-{% include figure.html image="images/529-3.jpg" %}
+{% include figure.html image="images/social-Boat.jpg" %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3%}
 
 {% capture col1 %}
-{% include figure.html image="images/Outside_Lab_Photo.jpg" caption="A lab photo on a sunny day at the BC Children's Hospital Research Institute! (2023)" %}
+{% include figure.html image="images/social-Outside_Lab_Photo.jpg" caption="A lab photo on a sunny day at the BC Children's Hospital Research Institute! (2023)" %}
 {% endcapture %}
 
 {% capture col2 %}
