@@ -1,19 +1,14 @@
 # site properties and page defaults
-title: BCCHVisionLab
+title: BC Children's Ophthalmology Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: oh jeez you wanna participate in our studies soooooo bad
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@BCCHVisionLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: BCCHVisionLab
-  twitter: BCCHVisionLab
-  youtube: BCCHVisionLab
+  email: opthalrl@cw.bc.ca
 
 ### jekyll settings
 
