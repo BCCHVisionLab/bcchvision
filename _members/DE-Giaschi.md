@@ -1,6 +1,6 @@
 ---
 name: Deborah Giaschi
-image: images/people-DGiaschi.jpg
+image: images/people-DGiaschi.jpeg
 role: Co-PI
 group: CoPI
 subtitle: Lab Director        
