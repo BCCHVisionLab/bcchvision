@@ -1,5 +1,5 @@
 # start with official ruby docker image as base
-FROM ruby:3.1.2
+FROM ruby:1.172.0
 
 # set working directory within container
 WORKDIR /usr/src/app
