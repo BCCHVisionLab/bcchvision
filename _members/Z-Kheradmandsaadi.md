@@ -1,6 +1,6 @@
 ---
 name: Zahra Kheradmandsaadi
-image: images/zahra-people.jpg
+image: images/people-zahra.jpeg
 role: GA 
 description: PhD student zahra67@mail.ubc.ca 
 group: Graduate Students
