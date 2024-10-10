@@ -1,6 +1,6 @@
 ---
 name: Hee Yeon Im    
-image: images/heeyeon-people.png
+image: images/people-heeyeon.jpeg
 role: Lead
 group: Principal Investigators
 aliases:
